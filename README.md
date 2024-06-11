@@ -1,66 +1,64 @@
-Laravel-ReactJs-Crud
+#Laravel-ReactJs-Crud
 
 Welcome to the Laravel-ReactJs-Crud project! This guide will help you get the project up and running on your local machine.
-🛠️ Project Setup
+🛠️ Project Setup.
+
 1. Clone the Repository
 
-git clone <repository_link>
+    git clone <repository_link>
 
 2. Navigate to Backend Directory
 
-cd backend
+    cd backend
 
 3. Install Backend Dependencies
 
-composer install
+    composer install
 
 4. (Optional) Install NPM Dependencies
 
-npm install
-# or
-yarn install
+    npm install
+    or
+    yarn install
 
-5. Configure Environment
+6. Configure Environment
 
-Create a copy of your .env file:
-
-cp .env.example .env
+    Create a copy of your .env file:
+    cp .env.example .env
 
 6. Generate Application Key
 
-php artisan key:generate
+    php artisan key:generate
 
 8. Create a Database
 
-Set up an empty database for your project.
+    Set up an empty database for your project.
 
 8. Configure Database
 
-Update your .env file with your database credentials.
+    Update your .env file with your database credentials.
 
 9. Run Migrations
 
-php artisan migrate
+    php artisan migrate
 
 10. Start the Backend Server
 
-sh
-
-php artisan serve
+    php artisan serve
 
 🚀 Frontend Setup
 
 11. Navigate to Frontend Directory
 
-cd frontend
+    cd frontend
 
 12. Install Frontend Dependencies
-
-npm install
+    
+    npm install
 
 13. Start the Frontend Server
 
-npm start
+    npm start
 
 🎉 You're All Set!
 
@@ -80,7 +78,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-📫 Contact
+📫 Contact anouarboutouga2@gmail.com
 
 For any questions or suggestions, please open an issue or contact the repository owner.
 
