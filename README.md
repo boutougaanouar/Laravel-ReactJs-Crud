@@ -1,7 +1,3 @@
-Compris! Voici une version formatée prête à être copiée et collée directement dans un fichier README.md :
-
----
-
 # Laravel-ReactJs-Crud
 
 Welcome to the **Laravel-ReactJs-Crud** project! This guide will help you get the project up and running on your local machine.
